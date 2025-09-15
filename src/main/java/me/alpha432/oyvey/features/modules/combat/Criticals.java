@@ -11,7 +11,7 @@ import net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket;
 
 public class Criticals extends Module {
     public Criticals() {
-        super("Criticals", "Makes you do critical hits", Category.COMBAT, true, false, false);
+        super("Criticals", "FAZ DA CRITICO MAIS N DA BYPASSSSSSSSSS UZHULLLLLLLLL", Category.COMBAT, true, false, false);
     }
 
     @Subscribe
